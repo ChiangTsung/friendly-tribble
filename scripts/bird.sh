@@ -1,0 +1,4 @@
+#!/bin/bash
+export AUTH_TOKEN="e41131795a22decf14d3f6ab21002d53b2d7d104"
+export CT0="3f3501c9b953fec8f259a33285c12a3dcb92b71873d294e0fd4c993c0c66f93bb8ffd5e8ddc4738f3a783c5e5006c9cb52e3e3473d8b9e68d3e57bfc830a739078dcf1548beeecff868b71370e1046dd"
+/opt/homebrew/bin/bird "$@"

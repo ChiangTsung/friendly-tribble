@@ -1,0 +1,7 @@
+{
+  "batch_interval_hours": 3,
+  "last_batch_time": "2026-02-10T14:00:00+08:00",
+  "analyzed_tweet_ids": [],
+  "tracked_topics": {},
+  "min_new_tweets_threshold": 2
+}

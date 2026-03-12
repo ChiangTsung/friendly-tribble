@@ -1,0 +1,15 @@
+.DS_Store
+.clawhub/
+
+# Large/local tool repos
+skills/
+whisper.cpp/
+projects/
+kimicli/
+
+# Generated outputs
+output/
+
+# Python cache
+__pycache__/
+*.pyc

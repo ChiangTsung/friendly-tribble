@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "qmd": {
+      "command": "/opt/homebrew/bin/qmd",
+      "args": ["mcp"]
+    }
+  },
+  "imports": []
+}
